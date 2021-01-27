@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@mindswap/v2-core",
+  "description": "🎛 Core contracts for the mindswapV2 protocol",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/MindSwapFinance/mindswap-v2-core"
   },
   "keywords": [
-    "uniswap",
+    "mindswap",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "mindswap-v2"
   ],
   "files": [
     "contracts",
